@@ -20,3 +20,8 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+#### git manage .cpp only ####
+*.dSYM
+/standard/*
+!/standard/*.cpp
