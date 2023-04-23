@@ -23,5 +23,5 @@ TestResults.xml
 
 #### git manage .cpp only ####
 *.dSYM
-/standard/*
-!/standard/*.cpp
+/basic/*
+!/basic/*.cpp
